@@ -38,8 +38,13 @@ Com o pip instalado e atualizado, clone o repositório do GitHub
 >> git clone https://github.com/natmourajr/SE2017.git
 >> cd SE2017
 ```
-E faça a instalação das bibliotecas necessárias
+Faça a instalação das bibliotecas necessárias
 ```
 >> pip install -r requirements.txt
+```
+Para rodar:
+```
+>> cd examples
+>> jupyter notebook
 ```
 

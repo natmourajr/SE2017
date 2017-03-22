@@ -47,4 +47,8 @@ Para rodar:
 >> cd examples
 >> jupyter notebook
 ```
-
+Em caso de erro nas redes neurais
+```
+>> vim $HOME/.keras/keras.json 
+```
+Mudar "backend": "theano"
